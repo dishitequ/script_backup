@@ -1,6 +1,8 @@
 #!/bin/bash
 
-
+#脚本功能：
+#  在服务器上执行脚本，可达到网络丢包的目的
+    
 loss_value="50%"
 
 while_flag=1
